@@ -1,6 +1,6 @@
 # Job Board API
 
-Here’s a breakdown of the **Job Board API** project that you can assign to interns:
+Here’s a breakdown of the **Job Board API** project:
 
 ### **Project: Job Board API**
 
